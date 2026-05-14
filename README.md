@@ -46,9 +46,9 @@ I've always learned by breaking concepts down into examples and patterns that ma
  
 ---
 
-and finally, my cat:
+and finally, my cats:
 
-![my cat](images/cat.jpg)
+<img src="unnamed.jpg" width="400" alt="my cat">
 
 ---
  
