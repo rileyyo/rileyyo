@@ -52,7 +52,7 @@ and finally, my cats:
 
 ---
  
-<sub>always learning. always improving. staying calm, curious, and consistent</sub>
+<sub>always learning. always improving.</sub>
 
 <!--
 **rileyyo/rileyyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
