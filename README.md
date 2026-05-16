@@ -2,7 +2,7 @@
  
 Master's student in Computer Science (Data Science focus), I like finding the story in the data and making sure it's actually understood by the people who need it.
  
-I'm exploring roles across the data space: **data analyst**, **BI analyst**, **analytics engineer**, **data engineer**, **product analytics**, **insights analytics** and **marketing analytics**. I care about craft, clarity, and usability.
+I'm exploring roles across the data space: **data analyst**, **insights analyst**, **BI analyst**, **analytics engineer**, **data engineer**, **product analytics** and **marketing analytics**. 
  
 ---
  
